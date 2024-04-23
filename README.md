@@ -32,7 +32,7 @@ Now everything is set and you are ready to run the code.
         * In case Gemini returns errors, please rerun the file with the rest of the wanted countries. 
         * If wanted more origins, please add them to the list *languages_list* in this python file.
 2. Create the diversity badge:
-    * Run DataCollectionLab1/code/predCountry/PredCountryModel.ipynb notebook **using the databricks platform**. [Here is a link to this notebook on DataBricks](https://adb-4286500221395801.1.azuredatabricks.net/?o=4286500221395801#notebook/4480858659357171) .
+    * Run DataCollectionLab1/code/predCountry/PredCountryModel.ipynb notebook **using the databricks platform**.
         * To train the model, please change the train_model parameter in the begining of the notebook to be set as True.
         * All the analysis for the diversity badge are at the end of this notebook. 
 
